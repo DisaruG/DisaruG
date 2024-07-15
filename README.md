@@ -25,6 +25,6 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DisaruG&icon=6&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DisaruG&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
